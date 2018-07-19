@@ -47,7 +47,7 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x129.png",
-    "noImageResize": "true",
+    "noImageResize": "",
     "uniqCompNum": 38,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
